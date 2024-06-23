@@ -1,0 +1,13 @@
+{
+    "rules": [
+      {
+        "type": "subject",
+        "value": "breached"
+      },
+      {
+        "type": "body",
+        "value": "click this link"
+      }
+    ]
+  }
+  

@@ -1,0 +1,23 @@
+INFO:root:Starting Basic Security Monitoring System
+INFO:root:Basic EDR Agent started
+WARNING:root:Suspicious activity detected: [WARNING] Possible malware detected in process xyz
+INFO:root:Basic EDR Agent completed
+INFO:root:Basic Email Monitor started
+WARNING:root:Suspicious email detected: {'subject': 'Your account has been breached', 'body': 'Please click this link to secure your account'}
+WARNING:root:Suspicious email detected: {'subject': 'Your account has been breached', 'body': 'Please click this link to secure your account'}
+INFO:root:Basic Email Monitor completed
+INFO:root:Basic Vulnerability Checker started
+INFO:root:Basic Vulnerability Checker completed
+INFO:root:Generating Basic Security Report
+INFO:root:Starting Basic Security Monitoring System
+INFO:root:Basic EDR Agent started
+WARNING:root:Suspicious activity detected: [WARNING] Possible malware detected in process xyz
+INFO:root:Basic EDR Agent completed
+INFO:root:Basic Email Monitor started
+WARNING:root:Suspicious email detected: {'subject': 'Your account has been breached', 'body': 'Please click this link to secure your account'}
+WARNING:root:Suspicious email detected: {'subject': 'Your account has been breached', 'body': 'Please click this link to secure your account'}
+INFO:root:Basic Email Monitor completed
+INFO:root:Basic Vulnerability Checker started
+INFO:root:Basic Vulnerability Checker completed
+INFO:root:Generating Basic Security Report
+INFO:root:Basic Security Report Generation completed

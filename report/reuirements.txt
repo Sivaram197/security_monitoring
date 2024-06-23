@@ -1,0 +1,2 @@
+# Requirements for Basic Report Generation module
+pandas
