@@ -1,4 +1,6 @@
-[INFO] System booting up...
-[WARNING] Possible malware detected in process xyz
-[INFO] User login successful
-[ERROR] Unauthorized access attempt detected
+2023-07-18 10:00:00 - INFO - System boot
+2023-07-18 10:05:00 - WARNING - Suspicious login attempt detected
+2023-07-18 10:10:00 - INFO - User logged in
+2023-07-18 10:15:00 - ERROR - Malware detected in file upload
+2023-07-18 10:20:00 - INFO - System scan completed
+2023-07-18 10:25:00 - INFO - System shutdown
